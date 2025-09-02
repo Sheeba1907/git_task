@@ -1,3 +1,5 @@
 This is the first file for committing changes 
 
 Making changes to the file
+
+Editing the file for git status
