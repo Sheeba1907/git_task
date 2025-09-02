@@ -2,4 +2,4 @@ Creating this for fetching changes made
 
 Editing this file for branch1
 
-Opening and updating this file for feature branch 
+Updating this file from main branch for raising pull requests to check conflicts
