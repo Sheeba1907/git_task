@@ -1,0 +1,1 @@
+Opening this file for git undoing changes using git reset and git revert
